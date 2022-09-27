@@ -1,0 +1,25 @@
+Pipeline
+
+Data pipeline's zijn een manier om structuur te krijgen in een data flow 
+Waar de uitvoer van de vorige opdracht de invoer is van de volgende opdracht. 
+
+pipeline's kunnen opgevolgd worden in github onder "Actions"
+
+
+Zelf vindt ik dat pipeline's handig kunnen zijn in het structureren van data/programmas/bewerkingen/processen 
+waar veel controlle moet/nodig is zoals wij ze gebruiken op github (Stappenplan om bij te leren).
+Andere toepasingen kunnne zijn het debuggen van programmas.
+
+Al denk ik dat er veel voordelen zijn aan het gebruik van pipeline's. Denk ik ook dat er de vraag moet gestelt worden 
+"Wat is een goede pipeline?" en "hoeveel stappen moet mijn pipline hebben?"
+want hoewel het een mooie structuur biedt in een project wanneer we te weinig of 
+te veel stappen in de pipline maken van een project denk ik dat een negatieve inpakt heeft op de gebruiks vriendelijkheid  
+heeft van het project (vb als de opdracht die we deze week hebben moeten maken voor elke stap nog eens 4 stappen had) 
+
+Nu hoe komt dit allemaal samen in de DevOp movement: 
+Als we naar het dev op schema kijken is dit eigenlijk een pipeline 
+namelijk als er 1 ding in de loop er niet is valt de loop uit elkaar. 
+vb als er geen plan is is er geen code ,zonder code een build, zonder build geen test, ... 
+Elke stap is dan ook even noodzakelijk om een project goed tot een einde te kunnen brengen. 
+
+
